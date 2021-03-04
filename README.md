@@ -4,6 +4,6 @@ Template for delivering the CEU Cloud Infrastructure Homework.
 Clone this repo, add @zoltanctoth and @mikepetridisz as collaborators and share the repo URL with us.
 
 Fill in your student id:
-# MY STUDENT ID: 3003615
+# MY STUDENT ID: 2003615
 # MY S3 BUCKET: 2003615-eszter
 
